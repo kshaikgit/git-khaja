@@ -1,3 +1,1 @@
-1 THIS IS MY FIRST PUSH
-2 this is the second edit to this file
-
+this is the my first push
